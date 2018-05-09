@@ -1,2 +1,2 @@
 hello git!
-git is a tool of version control!
+git is a distributed tool of version control!
